@@ -2,9 +2,3 @@ streamlit
 pdfplumber
 python-docx
 pandas
-re
-io
-numpy
-matplotlib
-collections
-scikit-learn
